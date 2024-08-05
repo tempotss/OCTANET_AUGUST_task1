@@ -12,3 +12,5 @@ PROGRAMMING LANGUAGE: HTML, CSS.
 
 SCREENSHOT OF WEBSITE:-
 ![ss1](https://github.com/user-attachments/assets/3b8d3dba-2c35-4541-a978-d58db8636b01)
+
+![image](https://github.com/user-attachments/assets/c5b42786-3090-435c-a658-066e4ffd3f9c)
